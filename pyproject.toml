@@ -1,0 +1,7 @@
+[project]
+name = "turath-py-bayt-hikmah-bibliography"
+version = "1.0.0"
+description = "Classical Islamic Bibliography Classifier (Ibn Al-Nadim Al-Fihrist Taxonomy) (مفهرس مصنفات التراث العلمي الإسلامي على منهج الفهرست)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
